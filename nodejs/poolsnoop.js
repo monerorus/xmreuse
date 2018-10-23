@@ -40,6 +40,63 @@ const pools = {
     api: 'https://monero.hashvault.pro/api',
     format: 'poolui'
   },
+  xmrpoolEU: {
+    api: 'https://web.xmrpool.eu:8119',
+    format:'poolui'
+  },
+  moriaxmrCom: {
+    api: 'https://api.moriaxmr.com',
+    format:'poolui'
+  },
+    moneroocean: {
+      api: 'https://api.moneroocean.stream',
+      format:'poolui'
+    },
+    xmrpoolDE: {
+      api: 'http://pool.xmrpool.de/api',
+      format:'poolui'
+    },
+    mypoolonline: {
+      api: "https://api.xmr.mypool.online",
+      format:'poolui',
+    },
+    bohemianpool: {
+      api: "https://bohemianpool.com/api",
+      format:'poolui'
+    },
+    moneropoolCom: {
+      api: "https://api.moneropool.com/api",
+      format:'poolui'
+    },
+    moneropoolNL: {
+      api: "https://moneropool.nl/api",
+      format:'poolui'
+    },
+    xmrpt: {
+      api: "https://pool.xmr.pt/api",
+      format:'poolui'
+    },
+    monerogt: {
+      api: "https://monero.gt/api",
+      format:'poolui'
+    },
+    minepro: {
+      api: "https://xmr.mine.pro/api",
+      format:'poolui'
+    },
+  poolmoscowru: {
+    api: "https://monero.pool-moscow.ru/api",
+    format:'poolui'
+  },
+  poolgntlcouk: {
+    api: "https://xmr.pool.gntl.co.uk/api",
+    format:'poolui'
+  },
+  cryptopoolspace: {
+    api: "https://xmr.cryptopool.space/api",
+    format:'poolui'
+  }
+    
   // MixPools: {
   //   api: 'https://mixpools.org:8117/get_blocks',
   //   format: 'node-cryptonote-pool'
