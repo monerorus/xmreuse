@@ -40,10 +40,6 @@ const pools = {
     api: 'https://monero.hashvault.pro/api',
     format: 'poolui'
   },
-  xmrpoolEU: {
-    api: 'https://web.xmrpool.eu:8119',
-    format:'poolui'
-  },
   moriaxmrCom: {
     api: 'https://api.moriaxmr.com',
     format:'poolui'
